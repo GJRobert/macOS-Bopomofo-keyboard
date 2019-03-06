@@ -9,3 +9,6 @@
 
 ## Known issues
 * 除空白鍵外，暫無其他英數字元
+
+## 銘謝
+* [Ukelele: Mac OS X Keyboard Layout Editor (John Brownie)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)：極棒的 GUI keyboard 編輯器！
