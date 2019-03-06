@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.3.0.249 on 2019-02-28 at 23:12 (GMT+8)-->
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-03-07 at 00:28 (GMT+8)-->
-<keyboard group="126" id="-27724" name="Bopomofo" maxout="1">
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-03-07 at 00:38 (GMT+8)-->
+<keyboard group="126" id="-17630" name="Bopomofo" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
