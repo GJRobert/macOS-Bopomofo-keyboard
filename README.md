@@ -4,7 +4,8 @@
 * 含空白鍵
 
 ## 安裝方法
-1. 將 `Bopomofo.bundle` 置入 `~/Library/Keyboard Layouts`
+1. 在 GitHub 專案主頁右上方，按 `Clond or download` 綠鈕，然後選 `Download ZIP`
+1. 解壓縮後，將 `Bopomofo.bundle` 置入 `~/Library/Keyboard Layouts`
 2. 開啟鍵盤偏好設定，加入`中文（注音符號）`語言中的 `Bopomofo`（帶有洋紅色「ㄅㄆㄇㄈ」圖示）
 
 ## Known issues
