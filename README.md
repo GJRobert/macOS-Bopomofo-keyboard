@@ -4,8 +4,8 @@
 * 含空白鍵
 
 ## 安裝方法
-1. 將 `Mac Bopomofo-keyboard` 置入 `~/Library/Keyboard Layouts`
-2. 開啟鍵盤偏好設定，加入`其他`語言中的 `Bopomofo`
+1. 將 `Bopomofo.bundle` 置入 `~/Library/Keyboard Layouts`
+2. 開啟鍵盤偏好設定，加入`中文（注音符號）`語言中的 `Bopomofo`（帶有洋紅色「ㄅㄆㄇㄈ」圖示）
 
 ## Known issues
 * 除空白鍵外，暫無其他英數字元
