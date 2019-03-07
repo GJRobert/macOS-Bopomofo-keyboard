@@ -25,3 +25,7 @@
 
 ## 銘謝
 * [Ukelele: Mac OS X Keyboard Layout Editor (John Brownie)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)：極棒的 GUI keyboard 編輯器！
+
+## 解除安裝
+1. 開啟鍵盤偏好設定，把 `Bopomofo` 移除
+2. 把 `~/Library/Keyboard Layouts` 中的 `Bopomofo.bundle` 刪除或移出
